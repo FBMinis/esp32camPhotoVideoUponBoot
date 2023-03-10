@@ -131,7 +131,6 @@ int qualityconfig = 5;
 
 char ssid[] = "0000";     // your network SSID (name)
 char password[] = "0000"; // your network key
-#define CHANNEL_ID "-1001336045228" // Canal Oeste
 bool powerOn_triggered = true;
 bool video_sent = false;
 long video_sent_time;
